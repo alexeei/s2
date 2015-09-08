@@ -1,0 +1,1 @@
+add_lunch_combo MSM8974-userdebug
